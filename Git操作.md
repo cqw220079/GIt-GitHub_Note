@@ -97,7 +97,8 @@ git log --oneline #简洁显示
   ```
   git reset --hard HEAD~n
   例子：git reset --hard HEAD~3
-  ```
+ ```
+返回历史操作：git reflog
 
 #### 1.3.6 reset的三个参数比较
 
