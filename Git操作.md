@@ -60,7 +60,7 @@ git add . #所有
 #### 1.3.3 提交
 
 ```
-git commit -m 'commit message' fileName
+git commit -m '注释内容' fileName
 说明：将暂存区内容提交到本地库
 ```
 
